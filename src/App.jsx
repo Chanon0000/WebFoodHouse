@@ -1,5 +1,7 @@
-import Registration from './component/Registration/Registration'
-import Login from './component/Login/Login'
+
+// import Registration from './component/Registration/Registration'
+// import Login from './component/Login'
+import Page from "./component/Page"
 
 
 function App() {
@@ -8,7 +10,7 @@ function App() {
     <>
 
       
-      <Login/>
+      <Page/>
     </>
   )
 }
